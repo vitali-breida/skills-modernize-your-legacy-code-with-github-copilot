@@ -1,0 +1,17 @@
+{
+  "name": "accounting-app",
+  "version": "1.0.0",
+  "description": "Node.js version of the legacy COBOL student account management application.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "license": "MIT"
+}
